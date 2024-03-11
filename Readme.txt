@@ -26,3 +26,11 @@
         "perfilCompra": ,
         "valorCompra":
     } 
+
+=== Referencias:
+    Elaborado por Cristian Idrovo
+    Maestria Ingenieria Software 
+    Universidad Politecnica Salesiana
+
+=== LINK GITHUB
+    https://github.com/ciit4ivadeveloper/Tarea3_python_Empresa_123.git
